@@ -1,0 +1,21 @@
+GSAP(GreenScreen Animation Platform) use kora hbe ekane eta ekta js library & robust js toolset 
+that makes it easier to create professional grade animation.
+
+
+What is ScrollTrigger in JavaScript?
+ScrollTrigger is a really small (~2kb minified) JavaScript library which lets you apply scroll-triggered animations to any element
+
+Locomotive Scroll is a React scroll library that builds on ayamflow's virtual-scroll, a library used to create custom scrollers that support touch and keyboard. Locomotive Scroll provides support for various forms of scrolling animations, including smooth scrolling, animated page overlays, and parallax effects
+
+locomotive include korar jnno locomotive css & locomotive js lagate hbe
+
+<canvas> is an HTML element which can be used to draw graphics via scripting (usually JavaScript). This can, for instance, be used to draw graphs, combine photos, or create simple animations.
+
+
+
+-----------------------------------------------------------------------------
+main div ta wrapper hisbe kaj kor6e
+amra 4 te page e puro project ta k vag kore nie6i & position relative kore oi page gulo te alada kore top,left... pabo sei page e content include korar jnno
+ar ta6ara opore ekta navbar thakbe. jate left side e logo & right side  e ekta button thakbe for designing purpose e 
+character ta canvas r madhoyme screen r middle e fixed thakbe
+bottom 
